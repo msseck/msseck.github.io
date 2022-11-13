@@ -50,3 +50,12 @@ a {
 a:hover{
     color: lemonchiffon;
 }
+
+p{
+    color: #CA795E;
+    text-align: center
+}
+
+p:hover{
+    color: lemonchiffon
+}
